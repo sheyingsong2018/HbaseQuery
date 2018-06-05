@@ -1,0 +1,1 @@
+﻿R CMD BATCH D:\IdeaWorkSpace\HbaseQuery\convert.r
