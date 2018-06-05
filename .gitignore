@@ -8,6 +8,8 @@ target/
 .project
 .settings
 .springBeans
+*.jar
+result.csv
 
 ### IntelliJ IDEA ###
 .idea
