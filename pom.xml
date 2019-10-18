@@ -18,7 +18,7 @@
         <!--spark.version>1.6.0-cdh5.14.0</spark.version-->
         <!--<hadoop.version>2.6.0-cdh5.14.0</hadoop.version>-->
         <hadoop.version>2.6.0-mr1-cdh5.10.1</hadoop.version>
-        <solr.version>4.10.3-cdh5.10.1</solr.version>
+        <solr.version>8.2.0</solr.version>
         <hbase.version>1.2.0-cdh5.10.1</hbase.version>
         <!--<hive_common>1.2.1</hive_common>-->
     </properties>
